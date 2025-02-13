@@ -1,0 +1,816 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-02-10T10:11:00Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/586647848",
+        "addr:city": "Nairobi",
+        "addr:housenumber": "Shell,",
+        "addr:street": "Ring Road Parklands",
+        "name": "Concorde",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8027833,
+          -1.2632812
+        ]
+      },
+      "id": "node/586647848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1123209275",
+        "name": "Garage",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8786316,
+          -1.2549784
+        ]
+      },
+      "id": "node/1123209275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1635576833",
+        "name": "Total",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7889638,
+          -1.3000068
+        ]
+      },
+      "id": "node/1635576833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1775820942",
+        "check_date": "2023-04-25",
+        "name": "Witts Motor Clinic",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7836543,
+          -1.3065203
+        ]
+      },
+      "id": "node/1775820942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2091525610",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.724464,
+          -1.2625672
+        ]
+      },
+      "id": "node/2091525610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2145436227",
+        "addr:city": "Nairobi",
+        "addr:street": "Shimo La Tewa Road",
+        "name": "Amazon Motors",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8270321,
+          -1.2995092
+        ]
+      },
+      "id": "node/2145436227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4278586344",
+        "addr:city": "Nairobi",
+        "addr:street": "Limuru Road",
+        "name": "AutoXpress Ltd - Head Office",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8201737,
+          -1.2696827
+        ]
+      },
+      "id": "node/4278586344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5147190722",
+        "addr:postcode": "254",
+        "addr:street": "babadogo road",
+        "name": "Ganatra Plant and Equipment",
+        "opening_hours": "Mo-Sa 08:00-18:00",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8832802,
+          -1.2450036
+        ]
+      },
+      "id": "node/5147190722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5327942761",
+        "addr:city": "Nairobi",
+        "addr:street": "Ridgeways Springs",
+        "name": "Range Rover Centre",
+        "operator": "Sam Wang'ombe",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8428298,
+          -1.2285039
+        ]
+      },
+      "id": "node/5327942761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5328482149",
+        "addr:city": "Nairobi",
+        "addr:street": "Ring Road Parklands",
+        "name": "Kwik-Fit Tyres",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8034828,
+          -1.2624701
+        ]
+      },
+      "id": "node/5328482149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5333117864",
+        "addr:city": "Nairobi",
+        "addr:street": "Waiyaki Way",
+        "brand": "Toyota",
+        "brand:wikidata": "Q53268",
+        "name": "Toyota -Westlands",
+        "operator": "Toyota Kenya Limited",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7889146,
+          -1.2604275
+        ]
+      },
+      "id": "node/5333117864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5339224754",
+        "check_date": "2023-04-18",
+        "name": "Popo's Workshop",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.783189,
+          -1.2797633
+        ]
+      },
+      "id": "node/5339224754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5352811658",
+        "name": "The Auto Clinic Runda",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.793579,
+          -1.2064723
+        ]
+      },
+      "id": "node/5352811658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5356773892",
+        "name": "Umar Auto Garage (UAG)",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7178029,
+          -1.3218841
+        ]
+      },
+      "id": "node/5356773892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5356847340",
+        "name": "Mud Rovers",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7069008,
+          -1.3374662
+        ]
+      },
+      "id": "node/5356847340"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5360938776",
+        "name": "Schumacher's 4X4",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7258647,
+          -1.3382752
+        ]
+      },
+      "id": "node/5360938776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5380534533",
+        "addr:city": "Nairobi",
+        "addr:housenumber": "Hse 26, Oldeani Crescent, Upperhill,Nairobi",
+        "addr:street": "Oldeani Crescent",
+        "name": "Automated LTD",
+        "operator": "James Mbugua",
+        "payment:cash": "yes",
+        "payment:visa": "yes",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.816254,
+          -1.3044138
+        ]
+      },
+      "id": "node/5380534533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5380534550",
+        "addr:city": "Nairobi City",
+        "addr:street": "Mara Road",
+        "name": "Valuation Yard - Safety Surveyors",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8114076,
+          -1.2992319
+        ]
+      },
+      "id": "node/5380534550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5414008555",
+        "addr:city": "Nairobi",
+        "addr:street": "Ngong Road",
+        "check_date": "2023-04-15",
+        "name": "Eagles Motor World & Garage",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7866493,
+          -1.2992096
+        ]
+      },
+      "id": "node/5414008555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5414200445",
+        "addr:city": "Nairobi",
+        "addr:housenumber": "Oilibya,",
+        "addr:street": "Ngong Road",
+        "name": "Oriel Kenya",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7899537,
+          -1.3004235
+        ]
+      },
+      "id": "node/5414200445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5491248368",
+        "addr:city": "Nairobi",
+        "addr:street": "Margaret Wambui Kenyatta Road",
+        "name": "St. Austin's",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7699304,
+          -1.2810698
+        ]
+      },
+      "id": "node/5491248368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5539484573",
+        "addr:city": "Nairobi",
+        "addr:street": "Ojijo Road",
+        "name": "Oriel",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8114748,
+          -1.2668545
+        ]
+      },
+      "id": "node/5539484573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5539579827",
+        "addr:city": "Nairobi",
+        "addr:street": "Londiani Road",
+        "name": "Vas Auto Centre",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8568564,
+          -1.3032961
+        ]
+      },
+      "id": "node/5539579827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5539579831",
+        "addr:city": "Nairobi",
+        "addr:housenumber": "Godowns, Lengetia House, Opposite Viwandani,",
+        "addr:street": "Likoni Road",
+        "name": "Roverland Autocare Services",
+        "operator": "Fred Oloo & Geoffrey Mwaura",
+        "payment:cash": "yes",
+        "payment:cheque": "yes",
+        "payment:credit_cards": "yes",
+        "phone": "254 20 2496965",
+        "service:vehicle:brakes": "yes",
+        "service:vehicle:car_parts": "yes",
+        "service:vehicle:car_repair": "yes",
+        "service:vehicle:diagnostics": "yes",
+        "service:vehicle:electrical": "yes",
+        "service:vehicle:oil_change": "yes",
+        "service:vehicle:repairs": "yes",
+        "service:vehicle:wheels": "yes",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8556527,
+          -1.3080905
+        ]
+      },
+      "id": "node/5539579831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5562593357",
+        "addr:city": "Nairobi",
+        "addr:street": "Workshop Road",
+        "name": "Collo Garage",
+        "opening_hours": "Mo-Sa 08:00-18:00",
+        "operator": "Cornelius Mwangi",
+        "payment:cash": "yes",
+        "service:vehicle:car_parts": "yes",
+        "service:vehicle:car_repair": "yes",
+        "service:vehicle:diagnostics": "yes",
+        "service:vehicle:electrical": "yes",
+        "service:vehicle:oil_change": "yes",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8284645,
+          -1.2965538
+        ]
+      },
+      "id": "node/5562593357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5580965013",
+        "addr:city": "Nairobi",
+        "addr:street": "Kindaruma Road",
+        "name": "Parts Direct Limited",
+        "operator": "John Newbould",
+        "service:vehicle:batteries": "yes",
+        "service:vehicle:diagnostics": "yes",
+        "service:vehicle:electrical": "yes",
+        "service:vehicle:inspection": "yes",
+        "service:vehicle:repair": "yes",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.790424,
+          -1.2971944
+        ]
+      },
+      "id": "node/5580965013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6135414724",
+        "addr:city": "Nairobi",
+        "addr:street": "Ngong Road",
+        "name": "Extreme Auto Centre Ltd",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7388464,
+          -1.3063525
+        ]
+      },
+      "id": "node/6135414724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6172772270",
+        "addr:city": "Nairobi",
+        "addr:street": "Workshop Road",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8279653,
+          -1.2966714
+        ]
+      },
+      "id": "node/6172772270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6172775452",
+        "addr:city": "Nairobi",
+        "addr:street": "Likoni Road",
+        "name": "Evercare Rover Centre Limited",
+        "operator": "Vincent Mogaka",
+        "service:vehicle:bodywork": "yes",
+        "service:vehicle:diagnostics": "yes",
+        "service:vehicle:service": "yes",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8563761,
+          -1.3095317
+        ]
+      },
+      "id": "node/6172775452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6172780952",
+        "addr:city": "Nairobi",
+        "addr:housenumber": "25",
+        "addr:street": "Oldeani Crescent",
+        "email": "kenroverparts@gmail.com",
+        "name": "Ken-Rovers Garage Limited",
+        "opening_hours": "Mo-Fr 09:00-17:00",
+        "operator": "Kennedy Opola",
+        "payment:cash": "yes",
+        "payment:cheque": "yes",
+        "payment:visa": "yes",
+        "phone": "+254 720 409 311",
+        "service:vehicle:body_repair": "yes",
+        "service:vehicle:car_repair": "yes",
+        "service:vehicle:diagnostics": "yes",
+        "service:vehicle:electrical": "yes",
+        "service:vehicle:oil_change": "yes",
+        "service:vehicle:tyres": "yes",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8159802,
+          -1.3045638
+        ]
+      },
+      "id": "node/6172780952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6197926474",
+        "addr:city": "Nairobi",
+        "addr:street": "Enterprise Road",
+        "name": "Diastar Auto Care Centre Ltd",
+        "operator": "Dhiren Pitrola",
+        "service:vehicle:body_paint": "yes",
+        "service:vehicle:body_shop": "yes",
+        "service:vehicle:bodywork": "yes",
+        "service:vehicle:oil_change": "yes",
+        "service:vehicle:service": "yes",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8457072,
+          -1.3097016
+        ]
+      },
+      "id": "node/6197926474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6207581209",
+        "addr:city": "Nairobi",
+        "addr:street": "Mombasa Road",
+        "name": "MPPS ACCESSORIES",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8528575,
+          -1.3288237
+        ]
+      },
+      "id": "node/6207581209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6207599845",
+        "addr:city": "Nairobi",
+        "addr:street": "Mombasa Road",
+        "name": "Oriel Limited Mombasa Rd",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8563907,
+          -1.3307425
+        ]
+      },
+      "id": "node/6207599845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6207692303",
+        "addr:city": "Nairobi",
+        "addr:street": "Mombasa Road",
+        "brand": "Nissan",
+        "brand:wikidata": "Q20165",
+        "name": "Nissan Kenya Service Centre",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8734107,
+          -1.3305057
+        ]
+      },
+      "id": "node/6207692303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6208217353",
+        "addr:city": "Nairobi",
+        "addr:street": "Old Mombasa Road",
+        "name": "Crystal Motors (K) Ltd",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8740051,
+          -1.3377689
+        ]
+      },
+      "id": "node/6208217353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6224915365",
+        "addr:city": "Nairobi",
+        "addr:street": "Thika Road",
+        "name": "Top Quality Motors Ltd",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8819446,
+          -1.2269325
+        ]
+      },
+      "id": "node/6224915365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6559614243",
+        "addr:street": "Hola Road",
+        "name": "CMC Bodyshop",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8288534,
+          -1.3004735
+        ]
+      },
+      "id": "node/6559614243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6840641666",
+        "addr:city": "Nairobi",
+        "addr:street": "Chogis Garage Road",
+        "name": "Chogi's Garage",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7450071,
+          -1.3023811
+        ]
+      },
+      "id": "node/6840641666"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7501513233",
+        "addr:city": "Nairobi",
+        "addr:street": "Academy Road",
+        "name": "Automec Limited",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7531071,
+          -1.3377863
+        ]
+      },
+      "id": "node/7501513233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10117886026",
+        "addr:city": "Nairobi",
+        "addr:street": "Baba Dogo Road",
+        "name": "Sajj Automobiles Kenya Limited",
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8775972,
+          -1.2408485
+        ]
+      },
+      "id": "node/10117886026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10121775091",
+        "addr:city": "Nairobi",
+        "addr:street": "Langata Road Auto Village Complex Karen, Nairobi",
+        "name": "Auto Village",
+        "opening_hours": "Mo-Sa 08:00-18:00",
+        "operator": "Fasber Jhuthi",
+        "payment:app": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+254722710310",
+        "service:vehicle:air_conditioning": "yes",
+        "service:vehicle:alignment": "yes",
+        "service:vehicle:batteries": "yes",
+        "service:vehicle:body_repair": "yes",
+        "service:vehicle:brakes": "yes",
+        "service:vehicle:car_parts": "yes",
+        "service:vehicle:car_repair": "yes",
+        "service:vehicle:diagnostics": "yes",
+        "service:vehicle:electrical": "yes",
+        "service:vehicle:inspection": "yes",
+        "service:vehicle:new_car_sales": "yes",
+        "service:vehicle:oil_change": "yes",
+        "service:vehicle:painting": "yes",
+        "service:vehicle:repairs": "yes",
+        "service:vehicle:truck_repair": "yes",
+        "service:vehicle:used_car_sales": "yes",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8013933,
+          -1.3229624
+        ]
+      },
+      "id": "node/10121775091"
+    }
+  ]
+}
