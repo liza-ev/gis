@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GIS Map - EV Serve</title>
+    
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+
+    <!-- KML to GeoJSON Converter -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/TogeoJSON/0.16.0/togeojson.min.js"></script>
+
+    <style>
+        body { margin: 0; font-family: Arial, sans-serif; }
+        #map { height: 100vh; }
+    </style>
+</head>
+<body>
+
+    <h1 style="text-align:center;">EV Serve - GIS Map</h1>
+    <div id="map"></div>
+
+    <script src="js/map.js"></script>
+
+</body>
+</html>
